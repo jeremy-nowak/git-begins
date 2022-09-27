@@ -2,4 +2,4 @@ git clone https://github.com/jeremy-nowak/git-begins
 git add git-begins
 git commit -m "git-begins"
 git push origin main
-
+git pull git-begins main
