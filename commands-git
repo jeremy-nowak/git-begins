@@ -3,3 +3,5 @@ git add git-begins
 git commit -m "git-begins"
 git push origin main
 git pull git-begins main
+git checkout -b add-create-branch-command créer une branche et switch dessus
+git checkout <existing_branch> afin de switch de branche
